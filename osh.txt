@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 Hai How Are You?:
-xIts from master !
+Its from master 
